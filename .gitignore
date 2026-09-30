@@ -16,5 +16,4 @@ logs/
 *.log
 data/
 benchmark-results/
-   *.egg-info/
-   __pycache__/
+*.egg-info
