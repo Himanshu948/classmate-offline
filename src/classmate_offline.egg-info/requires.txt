@@ -1,4 +1,0 @@
-faster-whisper==1.2.1
-av<19
-gpt4all==2.8.2
-gradio==5.49.1

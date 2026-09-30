@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: classmate-offline
-Version: 0.1.0
-Summary: Offline lecture transcription and study pack generation
-Requires-Python: <3.14,>=3.11
-Requires-Dist: faster-whisper==1.2.1
-Requires-Dist: av<19
-Requires-Dist: gpt4all==2.8.2
-Requires-Dist: gradio==5.49.1
